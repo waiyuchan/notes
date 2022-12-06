@@ -2,6 +2,8 @@ import {defaultTheme} from '@vuepress/theme-default'
 import {searchPlugin} from '@vuepress/plugin-search'
 
 module.exports = {
+    // base: './',
+    // dest: './dist',
     head: [
         ['link', {rel: 'icon', href: '/img/logo.png'}]
     ],

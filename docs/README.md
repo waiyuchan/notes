@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/waiyuchan.png
+heroImage: img/waiyuchan.png
 heroText: 歪榆禅
 tagline: 千里之行始于足下，尊重每一滴辛勤的汗水。
 actions:
