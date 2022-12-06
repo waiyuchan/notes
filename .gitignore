@@ -652,3 +652,5 @@ Temporary Items
 
 node_modules
 .temp
+
+.idea
